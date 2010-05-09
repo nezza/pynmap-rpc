@@ -1,0 +1,11 @@
+pynmap-rpc
+
+Copyright © 2010 by Thomas Roth <code@leveldown.de>
+
+What is it?
+pynmap-rpc is a small server for using python-nmap via RPC. At the moment it's just a hack, it takes many requests to get the informtaions, so it's not really suitable for production use.
+
+Files:
+ server.py The server.
+ client.py An example client.
+ LICENSE The license of the project.
