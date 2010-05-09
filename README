@@ -8,4 +8,4 @@ pynmap-rpc is a small server for using python-nmap via RPC. At the moment it's j
 Files:
  server.py The server.
  client.py An example client.
- LICENSE The license of the project.
+ COPYING The license of the project.
